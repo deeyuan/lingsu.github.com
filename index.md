@@ -1,37 +1,21 @@
-## Welcome to my Personal Introduction
+## Welcome to my simple website
 
-You can use the [editor on GitHub](https://github.com/deeyuan/lingsu.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Ling Su and I am a current student from the University of Nebraska at Omaha.
+I would like to use this simple website to introduce myself.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About myself
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I moved to United States in 2008 as an exchange student. Soon, I’ve been attracted by American‘s culture. 
+It is so diverse and inclusive. So I decide to continue my education in American as an official international student. 
 
-```markdown
-Syntax highlighted code block
+When I first begin to study the MIS, my grades are bad due to my poor English (especially lots of instructors are Indians in my major and they have bad accent). But later, my grades start to get better and better. I am very good at database management and I am very knowledgeable in SQL languages. So I went for applying internship. But unfortunately they didn't hire me although I am as good as others. I guess it’s because the American company has to consider the cost to sponsor my working visa.  It's a setback for me but I didn't give up. I immediately filed the asylum application to US government in order to get the work permit so I can have the same chance as other Americans. 
 
-# Header 1
-## Header 2
-### Header 3
+In spring of 2014, a person found my talent and bought me into the international trading business. I begin to help the company exploring the business throughout the US mainland while I still taking the class in the school. As I was getting busier, I have to reduce the classes I was taking and finally I temporarily left the university for years and just focus on the business. Now I’ve become the partnership and CFO in the company. I’ve successfully manger our company revenue from 10 thousand dollars per months till 1-2 million dollars per months. And company becomes one of the largest luxury auto exporters in the Midwest region of US to China. And I’ve awarded for the permanent residency which I am very proud of. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### F.Y.I
 
-**Bold** and _Italic_ and `Code` text
+I am an easy going person and passionate about the urban lifestyle, the move to Chicago was a natural fit. I got a chance to build the wide network between America and China due to the nature of my business. With encouragement from friends and business partners, I began to practice the real estate as well.  In my free time, I love to go hiking with my friends. I also play piano and love to go to concerts. I am fluent in English and Mandarin.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deeyuan/lingsu.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
